@@ -3,7 +3,7 @@ A collection of tiny projects made with [SFML](https://en.wikipedia.org/wiki/Sim
 
 ## Programs
 ### "Agario"
-GIF HERE
+![Video depicting game which looks like Agario](https://github.com/Thefantasticbagle/sfml-tiny-projects/blob/9b720ef88afbd94756f8e2ecbafc889c5cce42ff/images/agario_gameplay.gif)
 
 A short game made to resemble [Agar.io](https://en.wikipedia.org/wiki/Agar.io). The player uses their mass to propel themselves and consume smaller blobs, until they are the only one remaining or are eliminated.
 
@@ -13,7 +13,7 @@ $ ./agario
 ```
 
 ### Interactive spline
-GIF HERE
+![Video depicting interactive spline program](https://github.com/Thefantasticbagle/sfml-tiny-projects/blob/9b720ef88afbd94756f8e2ecbafc889c5cce42ff/images/spline_editor_example.gif)
 
 Add, move, or remove the weights of a spline. Touching the spline with the mouse sprouts particles in the direction of the "river" where the mouse currently is.
 
@@ -23,7 +23,7 @@ $ ./spline_editor
 ```
 
 ### Noise (flat)
-GIF HERE
+![Video depicting flat noise program](https://github.com/Thefantasticbagle/sfml-tiny-projects/blob/9b720ef88afbd94756f8e2ecbafc889c5cce42ff/images/noise_flat_example.gif)
 
 Add layers of noise and watch a ball roll accross it.
 
@@ -33,7 +33,7 @@ $ ./noise_flat
 ```
 
 ### Noise (round)
-IMAGE HERE
+![Image depicting round noise program](https://github.com/Thefantasticbagle/sfml-tiny-projects/blob/9b720ef88afbd94756f8e2ecbafc889c5cce42ff/images/noise_round_example.png)
 
 Visualize noise on a circle. Angle determines frequency, and distance to the centre amplitude.
 
@@ -43,7 +43,7 @@ $ ./noise_round
 ```
 
 ### Windy balls
-GIF HERE
+![Video depicting windy balls program](https://github.com/Thefantasticbagle/sfml-tiny-projects/blob/9b720ef88afbd94756f8e2ecbafc889c5cce42ff/images/windy_balls_example.gif)
 
 Balls which bounce and fall with the wind, smaller ones are affected more.
 
